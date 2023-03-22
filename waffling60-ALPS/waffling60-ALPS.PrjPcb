@@ -119,7 +119,7 @@ AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -246,12 +246,12 @@ VariationCount=0
 ParamVariationCount=0
 
 [Parameter1]
-Name=ProjectTitle
-Value=Waffling60 - ALPS Solder
-
-[Parameter2]
 Name=Revision
 Value=C1
+
+[Parameter2]
+Name=ProjectTitle
+Value=Waffling60 - ALPS Solder
 
 [Configuration1]
 Name=Sources
